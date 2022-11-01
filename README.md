@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zacoru
+-  Currently working with Python
+-  Interested in data science and building "useful" GUI applications for data interfacing
+-  Currently learning API interaction
